@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @merwan981
+- 👋 Hi, I’m Marwan
 - 👀 I’m interested in Technology and Digitalization
 - 🌱 I’m currently learning Cloud Computing, Mobile Computing, Data Science and IoT
 - 💞️ I’m looking to collaborate on everything related what I am learning.. :)
